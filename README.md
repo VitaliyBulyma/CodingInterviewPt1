@@ -1,7 +1,7 @@
 # Coding Interview Part 1 
 HTTP5302 Web Trends assignment
 
-This repository is my solution to Coding Interview Assignment
+This repository is my solution to Coding Interview Part 1 Assignment
 
 We were given 4 API endpoints: 
 1. Returned all employees
