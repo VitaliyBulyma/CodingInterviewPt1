@@ -15,6 +15,7 @@ If some of the data is missing, I made sure the informational message appears in
 Future Improvments:
  * At this point the size of the data fetched from API, such as Biography section, influences the look of the page, and each individual card. This could be improved by displaying only portion of the text, and including "Read more" button
  * A positive user experience improvement would also be to make "roles" in each card as buttons that render all employees marked by this role.
- * Another imporvement would be to make each card dynamic which would open a new page for employee when clicked on the card
+ * Another improvement would be to make each card dynamic which would open a new page for employee when clicked on the card. (Current available endpoints do not support fetching data by empolyee id)
+ * At the moment there are only 3 employees in the system, however if there were dozens or hundreds of records, the pagination should definately be included to eliminate  scrolling. 
 
 Following is a link to my solution [Coding Interview Part 1](http://vitaliybulyma.com/coding1/)
