@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+}
+/* Card */
+.card{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    max-width: 400px;
+    text-align: center;
+    margin: 20px;
+    
+}
+#name {
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.crown{
+
+float: right;
+width: 40px;
+max-width: 75px;
+
+}
+.photo{   
+    margin-top: 20px; 
+    width:60%;
+    border-radius:50%;
+    
+}
+
+.role{
+    margin: 10px;
+    max-width: 100px;
+    display: inline;        
+}
+
+#bio{
+   
+    text-align: justify;
+    padding: 10px;
+}
+.warning{
+    background-color:orange;
+    color: white;
+    margin: 10px;
+}
+/* Output containers */
+/* #roles{
+    background-color: lightgray;    
+} */
+#err{
+    text-align: center;
+}
+#output{
+    display: flex;  
+    justify-content: space-evenly; 
+    flex-wrap: wrap; 
+}
+
+/* Button */
+.btn{
+    margin: 20px;
+    padding: 10px;
+    background-color: lightskyblue;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+/* Input Boxes */
+
+input[type=checkbox]{
+    margin: 10px 20px;
+}
