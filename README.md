@@ -11,4 +11,4 @@ We were given 4 API endpoints:
 
 Also we were given the wireframe of an output for one employee. It was our task to figure out how to make usefull interface given this data.
 
-Following is a link to my solution [Coding Interview Part 1]()
+Following is a link to my solution [Coding Interview Part 1](http://vitaliybulyma.com/coding1/)
