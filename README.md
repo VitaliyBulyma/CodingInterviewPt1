@@ -12,7 +12,7 @@ We were given 4 API endpoints:
 Also we were given the wireframe of an output for one employee. It was our task to figure out how to make usefull interface given this data.
 If some of the data is missing, I made sure the informational message appears in place of the missing data.
 
-Future Improvments:
+Future Improvements:
  * At this point the size of the data fetched from API, such as Biography section, influences the look of the page, and each individual card. This could be improved by displaying only portion of the text, and including "Read more" button
  * A positive user experience improvement would also be to make "roles" in each card as buttons that render all employees marked by this role.
  * Another improvement would be to make each card dynamic which would open a new page for employee when clicked on the card. (Current available endpoints do not support fetching data by empolyee id)
